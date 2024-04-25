@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "catchSale",
-    "slug": "catchSale",
+    "slug": "catch-sale",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ccf2eeb7-ab52-40b8-9624-37bc20a74fa9"
+      }
+    },
+    "owner": "wilsonsan"
   }
 }
