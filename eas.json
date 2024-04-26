@@ -13,6 +13,9 @@
     "production": {
       "android": {
         "image": "latest"
+      },
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://api.production.com"
       }
     }
   },
